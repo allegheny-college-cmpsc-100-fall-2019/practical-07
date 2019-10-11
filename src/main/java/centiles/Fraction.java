@@ -29,7 +29,7 @@ public class Fraction {
     /*
      * TODO Use the above value to create a Fraction
      *      representing the value as a centile, called
-     *      "centler" (identifier)
+     *      "centile" (identifier)
      */
     return centile;
   }
